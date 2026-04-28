@@ -87,4 +87,3 @@ The dataset was normalized into multiple relational tables joined on `show_id`:
 
 **Alex Larose**  
 Data Analyst | Python · SQL · Power BI · Tableau  
-[LinkedIn](https://linkedin.com/in/alex-larose-577b65280) · [GitHub](https://github.com/Alex9295)
